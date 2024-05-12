@@ -1,0 +1,13 @@
+/* write your code from here */
+
+.product-card-ul-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding-left: 0px;
+}
+
+.product-card-main-container{
+    padding: 15px;
+}

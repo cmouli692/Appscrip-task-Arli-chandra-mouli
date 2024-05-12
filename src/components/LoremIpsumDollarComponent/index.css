@@ -1,0 +1,22 @@
+
+.lorem-ipsum-logo{
+    height: 20px;
+    width: 20px;
+}
+
+.lorem-ipsum-text{
+    color: #EB4C6B;  
+    font-size: 12px; 
+    font-family: "Simplon Norm";
+    margin-left: 5px;
+}
+
+
+
+.lorem-ipsum-dollar-main-component{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    
+}

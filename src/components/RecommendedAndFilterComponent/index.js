@@ -1,0 +1,17 @@
+import "./index.css"
+
+const RecommendedAndFilterComponent = () => (
+    <div className="filter-hr-recommended-main-container">
+        <h1 className="filter-text">Filter</h1>
+        <hr className="hr-between-filter-and-recommended"/>
+        <div className="recommended-text-arrow-left-container"> 
+            <h1 className="recommended-text">Recommended</h1>
+            <div className="arrow-left-img-container">
+                <img src="../.././arrow-left.png" alt="arrow-left"/>
+            </div>   
+        </div>   
+    </div>
+)
+
+
+export default RecommendedAndFilterComponent

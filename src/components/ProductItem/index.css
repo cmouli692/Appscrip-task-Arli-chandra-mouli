@@ -1,0 +1,71 @@
+
+.sign-in-text{
+    font-family: Simplon Norm;
+font-size: 13px;
+font-weight: 400;
+line-height: 12px;
+text-align: left;
+color: #888792
+;
+
+}
+
+.heart-img-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    height: 100%;
+}
+
+
+.product-title-heart-img-container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    /* height: 30%; */
+}
+
+/* .product-title-container{
+    width: 200px;
+    height: 104px;
+} */
+
+.product-title{
+    font-family: "Simplon Norm";
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 16.8px;
+    text-align: left;
+    width: 90%;
+
+}
+
+.product-image-container{
+    margin-bottom: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+
+.product-item-container{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    /* display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; */
+    list-style-type: none;
+    width: 180px;
+}
+
+.product-image{
+    
+    height: 130px;
+    width: 100px;
+}

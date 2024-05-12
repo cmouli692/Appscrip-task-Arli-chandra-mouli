@@ -1,0 +1,41 @@
+
+.discover-our-products-head-and-lorem-description-container{
+    padding: 10px;
+    font-family: "Simplon Norm";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 22px;
+    text-align: center;
+
+}
+
+
+
+
+
+.discover-our-products-head{
+    color :  #252020;
+    text-align:center;
+    font-family: "Simplon Norm";
+    font-size: 25px;
+    margin-top:0px;
+    font-weight: 200;
+}
+
+.home-hr-shop-container{
+    height: 80px;
+    width: 100px;
+}
+
+.hr{
+    
+    height:20px;
+}
+
+.home-hr-shop-container{
+    padding: 15px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+}

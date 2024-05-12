@@ -1,0 +1,49 @@
+
+
+.logo-heading-text{
+    margin-top: 0px;
+    margin-bottom: 0px;
+
+   font-family: "Roboto";
+    
+    
+    
+
+}
+
+.search-icon-heart-shopping-bag-main-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 70px;
+}
+
+.hamburger-menu-icon{
+    height: 20px;
+    width: 20px;
+}
+
+.logo-icon{
+    height: 20px;
+    width: 20px;
+}
+
+.hamburger-menu-and-logo-main-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 55px;
+    
+}
+
+.logo-and-icons-main-container{
+    border-bottom-style: solid;
+    border-bottom-color: #918f8e;
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}

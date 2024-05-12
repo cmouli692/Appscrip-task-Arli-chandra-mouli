@@ -1,0 +1,185 @@
+
+.copy-right-text-image-container{
+    margin-top: 20px;
+    margin-bottom: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.payment-images{
+width: 58px;
+}
+
+.payment-images-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+.metta-muse-accepts-text{
+    color: #ffffff;
+    font-size: 26px;
+}
+
+
+.follow-us-and-arrow-right-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid #E5E5E5;
+
+}
+
+.follow-us-text{
+    color: #ffffff;
+    font-size: 26px;
+
+}
+
+
+.quick-link-and-arrow-right-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid #E5E5E5;
+
+}
+
+.quick-link-text{
+    color: #ffffff;
+    font-size: 26px;
+
+}
+
+.metta-muse-text{
+    color: #ffffff;
+    font-size: 26px;
+
+}
+
+
+/* .metta-mause-img{
+    height: 20px;
+} */
+
+.metta-mause-and-drop-down-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid #E5E5E5;
+
+}
+
+.currency-usa-flag-usd-text-container{
+    border-bottom: 1px solid #E5E5E5;
+
+}
+
+.usd-text{
+    margin-bottom: 20px;
+    margin-left: 10px;
+    margin-right: 2px;
+}
+
+
+.usa-flag{
+    height: 28px;
+    margin-bottom: 20px;
+}
+
+
+.currency-head-text{
+    color: #ffffff;
+    font-size: 26px;
+}
+
+
+.customer-care-email-list-text{
+    margin-left: 10px;
+    margin-right: 2px;
+}
+
+.phone-number-and-customer-care-mail-container{
+    border-bottom: 1px solid #E5E5E5;
+    
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    color: #ffffff;
+}
+
+.call-us-head-text{
+    color: #ffffff;
+    font-size: 26px;
+}
+
+
+.be-the-first-text-lorem-text-email-input-and-button-container{
+    border-bottom: 1px solid #E5E5E5;
+}
+
+
+.subscribe-button{
+    height: 50px;
+    background-color:  #000000;
+color: #ffffff;
+border-radius: 5px;
+opacity: 30px;
+border-color: #eeeade;
+
+}
+
+
+.input-email-element-subscribe-btn-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.input-email-element{
+    height: 90%;
+    padding: 10px;
+    font-size: 20px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.be-the-first-to-know-text{
+    /* border-width: 0px, 0px, 0px, 0px;
+
+    border-style: solid;
+    
+    border-color: #E5E5E5; */
+    color: #ffffff;
+    font-size: 26px;
+  
+}
+
+.lorem-ipsum-is-dummy-text-desc{
+    color: #ffffff;
+    width: 343px;
+    height: 40px;
+   
+    
+
+    /* font-family: Simplon Norm; */
+    font-size: 20px;
+    
+    text-align: left;
+    
+}
+
+.footer-main-container{
+    background-color: #000000;
+    padding: 10px;
+}
